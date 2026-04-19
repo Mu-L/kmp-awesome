@@ -115,9 +115,14 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/dokka?style=flat)](https://github.com/Kotlin/dokka)
 > Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java. Just like Kotlin itself, Dokka fully supports mixed-language Java/Kotlin projects. It understands standard Javadoc comments in Java files and KDoc comments in Kotlin files, and can generate documentation in multiple formats including standard Javadoc, HTML and Markdown.
 
-[KDoctor](https://github.com/Kotlin/kdoctor) command-line tool 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kdoctor?style=flat)](https://github.com/Kotlin/kdoctor)
-> KDoctor is a command-line tool that helps to set up the environment for Kotlin Multiplatform Mobile app development. It ensures that all required components are properly installed and ready for use. If something is missed or not configured Kdoctor highlights the problem and suggests how to fix the problem.
+[compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) - composable stability plugin
+[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/compose-stability-analyzer?style=flat)](https://github.com/skydoves/compose-stability-analyzer)
+> 🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
+
+[Nucleus](https://github.com/kdroidFilter/Nucleus) - desktop platform utils
+[![GitHub Repo stars](https://img.shields.io/github/stars/kdroidFilter/Nucleus?style=flat)](https://github.com/kdroidFilter/Nucleus)
+[![Maven Central](https://img.shields.io/maven-central/v/put.coordinates.here)](https://central.sonatype.com/artifact/put.coordinates.here)
+> Nucleus is the native desktop platform for the JVM. Combined with Compose Multiplatform, it forms the most complete, most performant, and most deeply integrated desktop application stack ever built — on any language, any runtime, any platform.
 
 [Swift Klib](https://github.com/ttypic/swift-klib-plugin) gradle plugin 
 [![GitHub Repo stars](https://img.shields.io/github/stars/ttypic/swift-klib-plugin?style=flat)](https://github.com/ttypic/swift-klib-plugin)
