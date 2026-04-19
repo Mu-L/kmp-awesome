@@ -290,6 +290,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/dev.icerock.moko/permissions)](https://central.sonatype.com/artifact/dev.icerock.moko/permissions)
 > Kotlin Multiplatform library for providing runtime permissions on iOS & Android
 
+[Grant](https://github.com/brewkits/Grant) - Permission library for Android & iOS
+[![GitHub Repo stars](https://img.shields.io/github/stars/brewkits/Grant?style=flat)](https://github.com/brewkits/Grant)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.brewkits/grant-core)](https://central.sonatype.com/artifact/dev.brewkits/grant-core)
+> Kotlin Multiplatform permission library for Android & iOS. No Fragment/Activity needed, ViewModel-first, Compose Multiplatform ready. Fixes Android dead clicks & iOS deadlocks.
+
 [abc-kmm-notifications](https://github.com/line/abc-kmm-notifications) - Notification Manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-notifications?style=flat)](https://github.com/line/abc-kmm-notifications)
 [![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.abc/kmm-notifications)](https://central.sonatype.com/artifact/com.linecorp.abc/kmm-notifications)
@@ -802,6 +807,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/co.touchlab/stately)](https://central.sonatype.com/artifact/co.touchlab/stately)
 > Stately is a state utility library to facilitate state management in Kotlin Multiplatform.
 
+[kmp-resilient](https://github.com/santimattius/kmp-resilient) - Resilience patterns for suspend functions
+[![GitHub Repo stars](https://img.shields.io/github/stars/santimattius/kmp-resilient?style=flat)](https://github.com/santimattius/kmp-resilient)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.santimattius.resilient/resilient)](https://central.sonatype.com/artifact/io.github.santimattius.resilient/resilient)
+> A Kotlin Multiplatform library providing resilience patterns (Timeout, Retry, Circuit Breaker, Rate Limiter, Bulkhead, Hedging, Cache, Fallback) for suspend functions. Compose them declaratively with a small DSL and observe runtime telemetry via Flow.
+
 [CoroutineWorker](https://github.com/Autodesk/coroutineworker) - Workers for Kotlin Native
 [![GitHub Repo stars](https://img.shields.io/github/stars/Autodesk/coroutineworker?style=flat)](https://github.com/Autodesk/coroutineworker)
 [![Maven Central](https://img.shields.io/maven-central/v/com.autodesk/CoroutineWorker)](https://central.sonatype.com/artifact/com.autodesk/CoroutineWorker)
@@ -1086,6 +1096,46 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.codandotv/craftd-compose)](https://search.maven.org/artifact/io.github.codandotv/craftd-compose)
 > A Compose Multiplatform library to implement Server-Driven UI quickly and easily.
 
+[Lumen](https://github.com/aldefy/Lumen) - Compose Multiplatform coachmark library.
+[![GitHub Repo stars](https://img.shields.io/github/stars/aldefy/Lumen?style=flat)](https://github.com/aldefy/Lumen)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.aldefy/lumen)](https://central.sonatype.com/artifact/io.github.aldefy/lumen)
+> Compose Multiplatform coachmark library. Real transparent cutouts, not dimmed overlays. Android + iOS.
+
+[ComposeCollapsingTopBar](https://github.com/flaringapp/ComposeCollapsingTopBar) - Compose Multiplatform collapsing toolbar
+[![GitHub Repo stars](https://img.shields.io/github/stars/flaringapp/ComposeCollapsingTopBar?style=flat)](https://github.com/flaringapp/ComposeCollapsingTopBar)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.flaringapp/ComposeCollapsingTopBar)](https://central.sonatype.com/artifact/io.github.flaringapp/ComposeCollapsingTopBar)
+> The ultimate Compose Multiplatform collapsing toolbar library with dynamic sizing, different scroll modes, and extensive customization options
+
+[swipe](https://github.com/saket/swipe) - Swipe gesture actions
+[![GitHub Repo stars](https://img.shields.io/github/stars/saket/swipe?style=flat)](https://github.com/saket/swipe)
+[![Maven Central](https://img.shields.io/maven-central/v/me.saket.swipe2/swipe2)](https://central.sonatype.com/artifact/me.saket.swipe2/swipe2)
+> Swipe gesture actions for Compose UI
+
+[Swipeable-KMP](https://github.com/stevdza-san/Swipeable-KMP) - swipeable component.
+[![GitHub Repo stars](https://img.shields.io/github/stars/stevdza-san/Swipeable-KMP?style=flat)](https://github.com/stevdza-san/Swipeable-KMP)
+[![Maven Central](https://img.shields.io/maven-central/v/com.stevdza-san/swipeable-kmp)](https://central.sonatype.com/artifact/com.stevdza-san/swipeable-kmp)
+> A highly customizable swipeable component that supports both dismiss and reveal behaviors.
+
+[hyphen](https://github.com/DenserMeerkat/hyphen) - markdown editor
+[![GitHub Repo stars](https://img.shields.io/github/stars/DenserMeerkat/hyphen?style=flat)](https://github.com/DenserMeerkat/hyphen)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.densermeerkat/hyphen)](https://central.sonatype.com/artifact/io.github.densermeerkat/hyphen)
+> ⌨️ WYSIWYG markdown editor library for Compose Multiplatform. Live formatting, keyboard shortcuts, clipboard, and undo/redo history.
+
+[compose-pinch-grid](https://github.com/aldefy/compose-pinch-grid) - pinch-to-resize grid for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/aldefy/compose-pinch-grid?style=flat)](https://github.com/aldefy/compose-pinch-grid)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.aldefy/pinch-grid)](https://central.sonatype.com/artifact/io.github.aldefy/pinch-grid)
+> ComposePinchGrid — Google Photos-style pinch-to-resize grid for Compose Multiplatform. Pinch to change column count with haptic feedback, breathing scale animation, and smooth transitions. Android, iOS, Desktop, Web.
+
+[cascade-editor](https://github.com/linreal/cascade-editor) - rich text editor for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/linreal/cascade-editor?style=flat)](https://github.com/linreal/cascade-editor)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.linreal/cascade-editor)](https://central.sonatype.com/artifact/io.github.linreal/cascade-editor)
+> A block-based rich text editor for Compose Multiplatform - the Notion/Craft editing model, natively in Kotlin
+
+[RikkaUi](https://github.com/rainxchzed/RikkaUi) - RikkaUI design system.
+[![GitHub Repo stars](https://img.shields.io/github/stars/rainxchzed/RikkaUi?style=flat)](https://github.com/rainxchzed/RikkaUi)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.rikkaui/foundation)](https://central.sonatype.com/artifact/dev.rikkaui/foundation)
+> RikkaUI — composing elements into harmony. Shadcn/UI Inspired component library & design system for Jetpack Compose.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
@@ -1251,6 +1301,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/willowtreeapps/fuzzywuzzy-kotlin?style=flat)](https://github.com/willowtreeapps/fuzzywuzzy-kotlin)
 [![Maven Central](https://img.shields.io/maven-central/v/com.willowtreeapps/fuzzywuzzy-kotlin)](https://central.sonatype.com/artifact/com.willowtreeapps/fuzzywuzzy-kotlin)
 > Useful for selecting the closest matching string from a collection of strings. Various algorithms are available.
+
+[FuzzyKot](https://github.com/terrakok/FuzzyKot) - Fuzzy string matching
+[![GitHub Repo stars](https://img.shields.io/github/stars/terrakok/FuzzyKot?style=flat)](https://github.com/terrakok/FuzzyKot)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.terrakok/fuzzykot)](https://central.sonatype.com/artifact/com.github.terrakok/fuzzykot)
+> Fuzzy string matching for Kotlin Multiplatform.
 
 [kotlin-semver](https://github.com/z4kn4fein/kotlin-semver) - Semantic versioning
 [![GitHub Repo stars](https://img.shields.io/github/stars/z4kn4fein/kotlin-semver?style=flat)](https://github.com/z4kn4fein/kotlin-semver)
